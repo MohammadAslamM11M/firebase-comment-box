@@ -1,0 +1,14 @@
+.sign-in-btn-layout{
+    display: flex;
+    justify-content: end;
+}
+
+.sign-out-btn-layout{
+    display: flex;
+    justify-content: end;
+}
+
+.signed-in-container{
+   
+}
+
